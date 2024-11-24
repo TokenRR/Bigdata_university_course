@@ -1,3 +1,18 @@
+# VSCode workspace specific files
+*.code-workspace
+
+# Data
+*.csv
+*.parquet
+*.pkl
+
+NSDUH_cleaned_2016-2019.pkl
+NSDUH_cleaned_dropna_2016-2019.pkl
+
+# Notebooks
+_crack-cocaine-usage-prediction-eda.ipynb
+_crack-cocaine-usage-prediction-model-building.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
