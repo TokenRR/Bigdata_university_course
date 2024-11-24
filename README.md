@@ -33,9 +33,9 @@ The dataset used for training was the National Survey of Drug Use and Health (20
 | Random Forest     | 0.908441 | 1.000000  | 0.817512 | 0.899595 |
 | Stacking          | 0.913221 | 0.989709  | 0.835730 | 0.906225 |
 
-![Accuracy, precision, recall, F1-score visual](demo\accuracy_precision_recall_f1-score.png)
+![Accuracy, precision, recall, F1-score visual](demo/accuracy_precision_recall_f1-score.png)
 
-![PR and ROC curves](demo\PR_ROC_curves.png)
+![PR and ROC curves](demo/PR_ROC_curves.png)
 
 ## Installation and use
 #### Clone the repository:
